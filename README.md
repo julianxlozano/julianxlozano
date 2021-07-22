@@ -1,4 +1,4 @@
-###What's up? I'm Julian! 👋
+What's up? I'm Julian! 👋
 
 ✶I'm a Software Engineer with a successful background in music production and audio engineering.✶
 
@@ -25,6 +25,6 @@ My chief aim in life is to use technology, words, and art to make people's lives
 
 Let's get it!
 
-✶Julian Xavier Lozano✶
-📲 (630)917-0690
-📩 julianxlozano@gmail.com
+  ✶Julian Xavier Lozano✶
+  📲 (630)917-0690
+  📩 julianxlozano@gmail.com
