@@ -1,4 +1,4 @@
-What's up? I'm Julian! 👋
+<h1>What's up? I'm Julian! 👋</h1>
 
 ✶I'm a Software Engineer with a successful background in music production and audio engineering.✶
 
@@ -6,7 +6,7 @@ My diverse background of disciplines helps me creatively tackle problems as I'm 
 
 I'm experienced in object-oriented full stack development (Ruby On Rails, JavaScript, React) and integrating natural language processing/machine learning APIs. As is required in the fast-moving world of tech, I'm highly skilled at learning complex technologies in a short period of time.
 
-Skills:
+<h2>Skills:</h2>
 
     💎 Ruby on Rails ☕ JavaScript 😱 React 📜 Redux 📂 HTML 🎭 CSS ✔️ OmniAuth 🤖 GTP-3 👢 Bootstrap
 
