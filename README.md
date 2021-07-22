@@ -1,4 +1,4 @@
-What's up? I'm Julian! 👋
+###What's up? I'm Julian! 👋
 
 ✶I'm a Software Engineer with a successful background in music production and audio engineering.✶
 
