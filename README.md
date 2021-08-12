@@ -14,6 +14,9 @@ This app uses OpenAI's GTP-3 to generate rhyming song lyrics based on the users 
 I was fortunate enough to get access to the beta of OpenAI's GTP-3, and started developing this app straight away. The latest iteration uses React/Redux on the front end, and Ruby on Rails for the back end. I've also deployed a text-to-speech feature to bring the generated text to life.
 
 
+<h2>👻GhostWriter (Rails MVC version)👻</h2>
+
+[Demo](https://ghostwriter-rails-mvc.herokuapp.com/) | 
 
 *My chief aim in everything I do is to use technology, words, and art to make people's lives easier and to beautify the world.*
 
