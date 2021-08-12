@@ -16,7 +16,7 @@ I was fortunate enough to get access to the beta of OpenAI's GTP-3, and started 
 
 <h2>👻GhostWriter (Rails MVC version)👻</h2>
 
-[Demo](https://ghostwriter-rails-mvc.herokuapp.com/) | 
+[Demo](https://ghostwriter-rails-mvc.herokuapp.com/)  
 
 *My chief aim in everything I do is to use technology, words, and art to make people's lives easier and to beautify the world.*
 
