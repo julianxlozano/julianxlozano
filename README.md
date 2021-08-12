@@ -1,4 +1,4 @@
-<h1>What's up? I'm Julian! 👋</h1>
+<h1>Hi Everyone! I'm Julian! 👋</h1>
 
 ✶I'm a Software Engineer with a successful background in music production and audio engineering.✶
 
