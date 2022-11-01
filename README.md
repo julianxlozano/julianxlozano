@@ -8,7 +8,7 @@ I'm experienced in object-oriented full stack development (Ruby On Rails, JavaSc
     
 <h2>👻GhostWriter Mobile👻</h2>
 
-[App Store Link]([https://ghostwriterv2-front-end.herokuapp.com/songs?fbclid=IwAR3aTschedisg7_s3NyH2-s9ET8fEJ2Hu6N_nvAa8HqEeo2ENoR-DJFU83U](https://apps.apple.com/us/app/ghostwriter-mobile/id1613196347))
+[App Store Link]([https://apps.apple.com/us/app/ghostwriter-mobile/id1613196347])
 
 This app uses OpenAI's GTP-3 to generate rhyming song lyrics based on the users input text or topic suggestions.
 Sorry, but the repo for this project is private!
