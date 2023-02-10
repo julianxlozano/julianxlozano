@@ -4,7 +4,7 @@
 
 My diverse background of disciplines helps me creatively tackle problems as I'm used to shifting perspectives & skillsets to get the job done.
 
-I'm experienced in object-oriented full stack development (Ruby On Rails, JavaScript, React, React Native) and integrating natural language processing/machine learning APIs. As is required in the fast-moving world of tech, I'm highly skilled at learning complex technologies in a short period of time.
+I'm experienced in full stack development (Ruby On Rails, JavaScript, React, React Native) and integrating natural language processing/machine learning APIs. As is required in the fast-moving world of tech, I'm highly skilled at learning complex technologies in a short period of time.
     
 <h2>👻GhostWriter Mobile👻</h2>
 
