@@ -22,10 +22,6 @@ Subscriptions / payments are handled via RevenueCat
 *My chief aim in everything I do is to use technology, words, and art to make people's lives easier and to beautify the world.*
 
 *Let's get it!*
-
-  ✶Julian Xavier Lozano✶
-  📲 (630)917-0690
-  📩 julianxlozano@gmail.com
   
 <h2>Skills:</h2>
 
